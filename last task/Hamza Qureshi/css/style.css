@@ -1,0 +1,116 @@
+.bg {
+  background-image: url('images/banner.jpg');
+  
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 600px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire 
+                          container */
+}
+
+.bg-white{
+  background-color: white;
+}
+.bg-black{
+	background-color: black;
+}
+.bg-grey{
+	background-color: #aba89f;
+}
+.bg-redpink{
+	background-color: #eb5475;
+}
+.bg-blue{
+	background-color: blue;
+}
+.bg-lightblue{
+	background-color: #b6d4fc;
+}
+.bg-lightgrey{
+	background-color: #edf3f5;
+}
+.col-black{
+	color: black;
+}
+.col-blue{
+	color: blue;
+}
+.col-white{
+  color: white;
+}
+
+.col-green{
+	color: #74e874;
+}
+.align-center{
+  padding-top: 18%;
+}
+.mx-20{
+  margin-left: 20rem;
+  margin-right: 20rem;
+}
+.p-cus{
+	padding-top: 2.5rem;
+	padding-bottom: 2.5rem;
+}
+.my-7{
+	margin-top: 7rem;
+	margin-bottom: 7rem;
+}
+.mr-3{
+	margin-right: 3rem;
+}
+.px-6{
+	padding-left: 4.5rem;
+	padding-right: 4.5rem;
+}
+.px-7{
+	padding-right: 7rem;
+	padding-left: 7rem;
+}
+.w-10{
+	width: 100%
+}
+.round-corner{
+	border-radius: .5rem;
+}
+.pill{
+	border-radius: 2rem;
+	font-size: 13px;
+	color: blue;
+}
+.float-l
+{
+	float: left;
+}
+.float-r
+{
+	float: right;
+}
+h2{
+	font-size: 23px;
+}
+p{
+	font-size: 13px;
+}
+h3{
+	font-size: 18px;
+}
+.bg-lightred{
+	background-color: #fac7c3;
+	border-color: #fac7c3;
+	color: #c7453c;
+}
+.jobs_logo{
+	width: 55px;
+}
+.round_logo{
+
+	 border-radius: 50%;
+	 width: 40%
+}
+.img{
+	height: 75%;
+	width: 100%
+}
